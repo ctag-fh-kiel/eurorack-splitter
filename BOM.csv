@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C101,C104";"c_elec_4x5.7";2;"10uF";;;
+2;"C102,C103,C105,C106";"C_0603_HandSoldering";4;"100nF";;;
+3;"C201,C301";"C_0603_HandSoldering";2;"33pF";;;
+4;"D101,D102";"Diode-SMA_Standard";2;"D_Schottky";;;
+5;"FB101,FB102";"R_0805_HandSoldering";2;"FILTER";;;
+6;"J201,J301";"THONKICONN";2;"IN";;;
+7;"J202,J302";"THONKICONN";2;"OUT1";;;
+8;"J203,J303";"THONKICONN";2;"OUT2";;;
+9;"J204,J304";"THONKICONN";2;"OUT3";;;
+10;"P101";"Pin_Header_Straight_2x05";1;"PWR";;;
+11;"R201,R202,R204,R205,R206,R208,R210,R301,R302,R304,R305,R306,R308,R310";"R_0603_HandSoldering";14;"100k";;;
+12;"R203,R207,R209,R303,R307,R309";"R_0603_HandSoldering";6;"1k";;;
+13;"U201,U301";"TSSOP-14_4.4x5mm_Pitch0.65mm";2;"TL074";;;
